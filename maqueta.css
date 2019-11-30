@@ -1,0 +1,46 @@
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+.flex{
+    display: flex;
+}
+.text{
+    text-align: center;
+}
+.base{
+    margin: 0 auto;
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+.columna{
+    margin: 0 auto;
+    border: 1px solid yellow;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+  
+}
+.columna1{
+    margin: 0 auto;
+    color: black;
+    border:  1px solid blue;
+    margin: 10px;
+    padding: 10px;
+
+}
+.precio{
+    margin: 0 auto;
+    border: 1px solid cyan;
+    margin: 10px;
+    padding: 10px;
+
+}
+.comumna2{
+    margin: 0 auto;
+    color: black;
+    border:  1px solid blue;
+    margin: 10px;
+    padding: 10px;
+}
